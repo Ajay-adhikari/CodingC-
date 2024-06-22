@@ -32,5 +32,6 @@ int main()
     vijay.e = 12;
     vijay.setup(1, 2, 3);
     vijay.getup();
+    cout<<"hello guys "<<endl;
     return 0;
 }
